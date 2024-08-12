@@ -1,4 +1,8 @@
-﻿#include <iostream>
+﻿// THIS IS A POLISH VERSION OF THIS PROGRAM
+// THERE IS ENGLISH VERSION AVAILABLE
+
+
+#include <iostream>
 #include <vector>
 #include <string>
 #include <random>
